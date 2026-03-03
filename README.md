@@ -17,6 +17,9 @@ BI](https://img.shields.io/badge/Visualization-Power%20BI-yellow?logo=powerbi)
 This project analyzes customer shopping behavior to extract meaningful
 business insights using an end-to-end analytics workflow.
 
+🔗 **GitHub Repository:**\
+https://github.com/Srinivas9a/customer_shopping_analysis
+
 It demonstrates:
 
 -   📥 Data Loading & Cleaning\
@@ -139,7 +142,7 @@ Developed an interactive dashboard including:
 
 ## 📁 Project Structure
 
-    Customer-Shopping-Analysis/
+    customer_shopping_analysis/
     │
     ├── data/
     │   └── dataset.csv
@@ -165,8 +168,8 @@ Developed an interactive dashboard including:
 ### 1️⃣ Clone the Repository
 
 ``` bash
-git clone https://github.com/your-username/customer-shopping-analysis.git
-cd customer-shopping-analysis
+git clone https://github.com/Srinivas9a/customer_shopping_analysis.git
+cd customer_shopping_analysis
 ```
 
 ### 2️⃣ Install Dependencies
